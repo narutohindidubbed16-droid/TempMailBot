@@ -1,4 +1,5 @@
-pyrofork
-tgcrypto
+python-dotenv
+pymongo
+pyrogram==2.0.106
+bs4
 requests
-beautifulsoup4
