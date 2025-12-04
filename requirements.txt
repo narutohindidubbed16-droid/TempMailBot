@@ -1,5 +1,6 @@
-python-dotenv
-pymongo
-pyrogram==2.0.106
-bs4
+pyrofork
+tgcrypto
 requests
+beautifulsoup4
+pymongo
+flask
