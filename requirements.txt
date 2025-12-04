@@ -1,6 +1,8 @@
-pyrofork
-tgcrypto
+pymongo
+pycryptodome
 requests
 beautifulsoup4
-pymongo
+pyrogram
+tgcrypto
+python-dotenv
 flask
